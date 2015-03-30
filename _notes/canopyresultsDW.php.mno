@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_canopyresultsDW" value="name:canopy_id;datatype:int,name:year;datatype:string,name:volume;datatype:string,name:title;datatype:string,name:author;datatype:string,name:date;datatype:date,name:page_number;datatype:string,name:people_in_article;datatype:blob,name:subjects_in_article;datatype:blob,name:brief_summary;datatype:blob,name:initials;datatype:string" />
+</info>
